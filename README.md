@@ -1,4 +1,4 @@
-# Next.js & Prisma Postgres starter
+# Ready 2 play Game Jammers
 
 Ready2Play test website
 
